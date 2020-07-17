@@ -2,7 +2,7 @@
 # jemdoc: addcss{css/jemdoc.css}
 # jemdoc: title{Jingsong Chen - The Chinese University of Hong Kong}
 = Jingsong Chen  
-{{<p><img src="img/photo.png" width=180px align="right" style=""/></p>}}
+{{<p><img src="img/photo.png" width=180px align="right" style="padding-right: 20px;"/></p>}}
 
 *Ph.D. Candidate*  
 
@@ -11,7 +11,10 @@
 *Office*: Rm 913, Ho Sin Hang Engineering Building, CUHK, Shatin, N.T., Hong Kong SAR \n
 *Email*: jschen\[at\]cse.cuhk.edu.hk \n
 
-#include{biography.jemdoc}
+{{<a href="https://www.linkedin.com/in/jingsong-chen-3aaa49128/" target="<u>blank"><img src="img/linkedin-logo.png" height=30></a>
+<a href="https://scholar.google.com/citations?user=Eygs5ZEAAAAJ&hl=en" target="<u>blank"><img src="img/scholar.png" height=30></a>  }}
+
+# include{biography.jemdoc}
 
 # #include{publication.jemdoc}
 

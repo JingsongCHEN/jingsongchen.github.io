@@ -4,40 +4,81 @@
 I'm a third-year Ph.D. candidate at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
 [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
 under the supervision of [http://www.cse.cuhk.edu.hk/~fyyoung/ Prof. Evangeline F.Y. Young] since Fall 2017.
-Before joining CUHK, I received xxx.
+Before joining CUHK, I received my Bachelor Degree of Computer Science and Technology 
+from [https://www.zju.edu.cn/english Zhejiang University (ZJU)].
 
-My research interests 
-include xxx.
-
-== Recent News
-~~~ 
-- July-2020: 
-~~~
+My research interests include physical design of VLSI circuits and related ML-based problems.
 
 == Publications
 === Conference Papers
 
-- \[C1\] 
+- \[C6\] *Jingsong Chen*, Jian Kuang, Guowei Zhao, Dennis Huang, Evangeline F. Y. Young,
+ "PROS: a Plug-in for Routability Optimization applied in the State-of-the-art Commercial EDA Tool Using Deep Learning", 
+ IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Online, Nov. 2–-5, 2020. 
+ \[[https://jingsongchen.github.io/papers/DAC19-MARCH.pdf, Paper]\]
+
+- \[C5\] Bentian Jiang\*, *Jingsong Chen*\*, Jinwei Liu, Lixin Liu, Fangzhou Wang, Xiaopeng Zhang, Evangeline F. Y. Young,
+ "Placing DNNs on Wafer-Scale AI Accelerator with Optimal Kernel Sizing", 
+ IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Online, Nov. 2–-5, 2020 (\* co-first authors).
+
+- \[C4\] Haocheng Li, Gengjie Chen, Bentian Jiang, *Jingsong Chen*, Evangeline F. Y. Young,
+ "Dr. CU 2.0: A Scalable Detailed Routing Framework with Correct-by-Construction Design Rule Satisfaction", 
+ IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, USA, Nov. 4--7, 2019.
+
+- \[C3\] *Jingsong Chen*, Jinwei Liu, Gengjie Chen, Dan Zheng, Evangeline FY Young,
+ "MARCH: MAze Routing Under a Concurrent and Hierarchical Scheme for Buses", 
+ Annual Design Automation Conference (*DAC*), San Francisco, CA, USA, June 24--29, 2019.
+
+- \[C2\] *Jingsong Chen*, James Shiely, Evangeline FY Young,
+ "Fast detection of largest repeating layout pattern", 
+ SPIE Advanced Lithography Conference, San Jose, CA, Feb. 24--28, 2019.
+
+- \[C1\] Gengjie Chen, Chak-Wa Pui, Haocheng Li, *Jingsong Chen*, Bentian Jiang, Evangeline F.Y. Young,
+ "Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search", 
+IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Japan, Jan 21--24, 2019.
 
 == Tools
+
+- [https://www.zju.edu.cn/english Dr.CU] \[C1\] \[C4\] 
+ (Evaluator of [http://iccad-contest.org/2019/problems.html ICCAD 2019 Global Routing Contest])
 
 == Honors & Awards
 ~~~
 {}{table}
 
-Full Postgraduate Studentship  | | | | CUHK | | | | | | 2017 - || 
+First Place Award at Contest on [https://www.cerebras.net/ispd-2020-contest/ ``Wafer-Scale Deep Learning Accelerator Placement''] | | | | ISPD | | | | 2020 || 
+First Place Award at Contest on [http://www.ispd.cc/contests/19/ ``Initial Detailed Routing''] | | | | ISPD | | | | 2019 ||
+First Place Award at Contest on [http://iccad-contest.org/ ``Obstacle-Aware On-Track Bus Routing''] | | | | ICCAD | | | | 2018 ||
+Second Place Award at Contest on [http://www.ispd.cc/contests/18/ ``Initial Detailed Routing''] | | | | ISPD | | | | 2018 || 
+Full Postgraduate Studentship  | | | | CUHK | | | | 2017 - || 
 
 ~~~
 
 == Experiences
-Research Assistant | [http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong]
-- Fast Lithographic Hotspot Detection
-- Advisor: [http://www.cse.cuhk.edu.hk/~fyyoung/ Prof. Evangeline F.Y. Young]
-- March 2017 -- May 2017, NT, Hong Kong SAR
+
+Software Engineer Intern | [https://www.cadence.com/en_US/home.html Cadence Design Systems]
+- Routing enhancement with deep learning \[C6\]
+- Mentored by [https://www.linkedin.com/in/dennis-huang-716b863/ Dennis Huang]
+- May 2019 -- Oct. 2019, San Jose, CA, USA
+
+Technical Intern | [https://www.synopsys.com/ Synopsys]
+- Layout pattern detection \[C2\]
+- Mentored by [https://www.linkedin.com/in/james-shiely-274a4524/ James Shiely]
+- June 2018 -- Aug. 2018, Shanghai, China
 
 == Services
 === Reviewers\/External Reviewers
--
+
+- Integration, the VLSI Journal
+- IEEE/ACM Design Automation Conference (DAC)
+- IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+- ACM International Symposium on Physical Design (ISPD)
 
 === Teaching
-- 
+
+- 2020Spring: CSCI-1520 Computer Principles and C++ Programming
+- 2019Fall: CSCI-3190 Introduction to Discrete Mathematics and Algorithms
+- 2019Spring: ENGG-1110 Problem Solving by Programming
+- 2018Fall: CSCI-1130 Introduction to Computing Using Java
+- 2018Spring: CSCI-3170 Introduction to Database Systems
+- 2017Fall: CSCI-3170 Introduction to Database Systems
