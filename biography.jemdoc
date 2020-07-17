@@ -15,7 +15,6 @@ My research interests include physical design of VLSI circuits and related ML-ba
 - \[C6\] *Jingsong Chen*, Jian Kuang, Guowei Zhao, Dennis Huang, Evangeline F. Y. Young,
  "PROS: a Plug-in for Routability Optimization applied in the State-of-the-art Commercial EDA Tool Using Deep Learning", 
  IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Online, Nov. 2–-5, 2020. 
- \[[https://jingsongchen.github.io/papers/DAC19-MARCH.pdf Paper]\]
 
 - \[C5\] Bentian Jiang\*, *Jingsong Chen*\*, Jinwei Liu, Lixin Liu, Fangzhou Wang, Xiaopeng Zhang, Evangeline F. Y. Young,
  "Placing DNNs on Wafer-Scale AI Accelerator with Optimal Kernel Sizing", 
@@ -24,10 +23,15 @@ My research interests include physical design of VLSI circuits and related ML-ba
 - \[C4\] Haocheng Li, Gengjie Chen, Bentian Jiang, *Jingsong Chen*, Evangeline F. Y. Young,
  "Dr. CU 2.0: A Scalable Detailed Routing Framework with Correct-by-Construction Design Rule Satisfaction", 
  IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, USA, Nov. 4--7, 2019.
+  \[[https://jingsongchen.github.io/papers/ICCAD19-DrCU2.pdf Paper]\]
+  \[[https://jingsongchen.github.io/slides/ICCAD19-DrCU2-slides.pdf Slides]\]
 
 - \[C3\] *Jingsong Chen*, Jinwei Liu, Gengjie Chen, Dan Zheng, Evangeline FY Young,
  "MARCH: MAze Routing Under a Concurrent and Hierarchical Scheme for Buses", 
  Annual Design Automation Conference (*DAC*), San Francisco, CA, USA, June 24--29, 2019.
+  \[[https://jingsongchen.github.io/papers/DAC19-MARCH.pdf Paper]\]
+  \[[https://jingsongchen.github.io/slides/DAC19-MARCH-slides.pdf Slides]\]
+  \[[https://jingsongchen.github.io/poster/DAC19-MARCH-poster.pdf Poster]\]
 
 - \[C2\] *Jingsong Chen*, James Shiely, Evangeline FY Young,
  "Fast detection of largest repeating layout pattern", 
@@ -36,6 +40,8 @@ My research interests include physical design of VLSI circuits and related ML-ba
 - \[C1\] Gengjie Chen, Chak-Wa Pui, Haocheng Li, *Jingsong Chen*, Bentian Jiang, Evangeline F.Y. Young,
  "Detailed Routing by Sparse Grid Graph and Minimum-Area-Captured Path Search", 
 IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Japan, Jan 21--24, 2019.
+  \[[https://jingsongchen.github.io/papers/ASPDAC19-DrCU.pdf Paper]\]
+  \[[https://jingsongchen.github.io/slides/ASPDAC19-DrCU-slides.pdf Slides]\]
 
 == Tools
 
