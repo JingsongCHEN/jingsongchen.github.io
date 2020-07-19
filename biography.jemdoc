@@ -46,7 +46,7 @@ IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, 
 == Tools
 
 - [https://www.zju.edu.cn/english Dr.CU] \[C1\] \[C4\] 
- (Evaluator of [http://iccad-contest.org/2019/problems.html ICCAD 2019 Global Routing Contest])
+ (Evaluator of [http://iccad-contest.org/2019/ ICCAD 2019 Global Routing Contest])
 
 == Honors & Awards
 ~~~
@@ -54,7 +54,7 @@ IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, 
 
 First Place Award at Contest on [https://www.cerebras.net/ispd-2020-contest/ ``Wafer-Scale Deep Learning Accelerator Placement''] | | | | ISPD | | | | 2020 || 
 First Place Award at Contest on [http://www.ispd.cc/contests/19/ ``Initial Detailed Routing''] | | | | ISPD | | | | 2019 ||
-First Place Award at Contest on [http://iccad-contest.org/ ``Obstacle-Aware On-Track Bus Routing''] | | | | ICCAD | | | | 2018 ||
+First Place Award at Contest on [http://iccad-contest.org/2018/ ``Obstacle-Aware On-Track Bus Routing''] | | | | ICCAD | | | | 2018 ||
 Second Place Award at Contest on [http://www.ispd.cc/contests/18/ ``Initial Detailed Routing''] | | | | ISPD | | | | 2018 || 
 Full Postgraduate Studentship  | | | | CUHK | | | | 2017 - || 
 
@@ -63,13 +63,13 @@ Full Postgraduate Studentship  | | | | CUHK | | | | 2017 - ||
 == Experiences
 
 Software Engineer Intern | [https://www.cadence.com/en_US/home.html Cadence Design Systems]
-- Routing enhancement with deep learning \[C6\]
-- Mentored by [https://www.linkedin.com/in/dennis-huang-716b863/ Dennis Huang]
+- Global routing team, mentored by [https://www.linkedin.com/in/dennis-huang-716b863/ Dennis Huang]
+- Global routing enhancement with deep learning \[C6\]
 - May 2019 -- Oct. 2019, San Jose, CA, USA
 
 Technical Intern | [https://www.synopsys.com/ Synopsys]
+- SEG Proteus geometry engine team, mentored by [https://www.linkedin.com/in/james-shiely-274a4524/ James Shiely]
 - Layout pattern detection \[C2\]
-- Mentored by [https://www.linkedin.com/in/james-shiely-274a4524/ James Shiely]
 - June 2018 -- Aug. 2018, Shanghai, China
 
 == Services
