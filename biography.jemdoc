@@ -12,6 +12,13 @@ from [https://www.zju.edu.cn/english Zhejiang University (ZJU)].
 My research interests include physical design of VLSI circuits and related ML-based problems.
 
 == Publications
+
+=== Journal Papers
+
+- \[J1\] Bentian Jiang\*, *Jingsong Chen*\*, Jinwei Liu, Lixin Liu, Fangzhou Wang, Xiaopeng Zhang, Evangeline F. Y. Young,
+ "CU.POKer: Placing DNNs on WSE with Optimal Kernel Sizing and Efficient Protocol Optimization", 
+ accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) (\* co-first authors). 
+
 === Conference Papers
 
 - \[C6\] *Jingsong Chen*, Jian Kuang, Guowei Zhao, Dennis Huang, Evangeline F. Y. Young,
