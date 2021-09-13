@@ -3,10 +3,10 @@
 
 == Biography
 
-I'm a final-year Ph.D. candidate at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
-[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
-under the supervision of [http://www.cse.cuhk.edu.hk/~fyyoung/ Prof. Evangeline F.Y. Young] since Fall 2017.
-Before joining CUHK, I received my Bachelor Degree of Computer Science and Technology 
+I obtained my Ph.D. from the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)] in 2021, 
+under the supervision of [http://www.cse.cuhk.edu.hk/~fyyoung/ Prof. Evangeline F.Y. Young].
+Before that, I received my Bachelor Degree of Computer Science and Technology 
 from [https://www.zju.edu.cn/english Zhejiang University (ZJU)].
 
 My research interests include physical design of VLSI circuits and related ML-based problems.
@@ -17,9 +17,13 @@ My research interests include physical design of VLSI circuits and related ML-ba
 
 - \[J1\] Bentian Jiang\*, *Jingsong Chen*\*, Jinwei Liu, Lixin Liu, Fangzhou Wang, Xiaopeng Zhang, Evangeline F. Y. Young,
  "CU.POKer: Placing DNNs on WSE with Optimal Kernel Sizing and Efficient Protocol Optimization", 
- accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) (\* co-first authors). 
+ accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*) (\* co-first authors). 
 
 === Conference Papers
+
+- \[C7\] Fangzhou Wang, Lixin Liu, *Jingsong Chen*, Jinwei Liu, Xinshi Zang, Martin D.F. Wong, 
+ "Starfish: An Efficient P&R Co-Optimization Engine with A\*-based Partial Rerouting", 
+ IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Munich, Germany, Nov. 1--4, 2021. 
 
 - \[C6\] *Jingsong Chen*, Jian Kuang, Guowei Zhao, Dennis Huang, Evangeline F. Y. Young,
  "PROS: a Plug-in for Routability Optimization applied in the State-of-the-art Commercial EDA Tool Using Deep Learning", 
