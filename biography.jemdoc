@@ -18,6 +18,7 @@ My research interests include physical design of VLSI circuits and related ML-ba
 - \[J1\] Bentian Jiang\*, *Jingsong Chen*\*, Jinwei Liu, Lixin Liu, Fangzhou Wang, Xiaopeng Zhang, Evangeline F. Y. Young,
  "CU.POKer: Placing DNNs on WSE with Optimal Kernel Sizing and Efficient Protocol Optimization", 
  accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*) (\* co-first authors). 
+  \[[https://ieeexplore.ieee.org/document/9480606 Paper]\]
 
 === Conference Papers
 
@@ -71,7 +72,6 @@ IEEE/ACM Asia and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, 
 ~~~
 {}{table}
 
-Second Place Award at Contest on [http://www.ispd.cc/?page=contests ``Wafer-Scale Physics Modeling Contest''] | | | | ISPD | | | | 2021 || 
 First Place Award at Contest on [http://iccad-contest.org/2020/ ``Routing with Cell Movement''] | | | | ICCAD | | | | 2020 ||
 DAC Young Fellow Award | | | | DAC | | | | 2020 || 
 First Place Award at Contest on [http://www.ispd.cc/?page=contests ``Wafer-Scale Deep Learning Accelerator Placement''] | | | | ISPD | | | | 2020 || 
@@ -83,6 +83,10 @@ Full Postgraduate Studentship  | | | | CUHK | | | | 2017 - 2021 ||
 ~~~
 
 == Experiences
+
+Senior Algorithm Engineer | [https://www.huawei.com Huawei]
+- On some challenging projects
+- Oct 2021 -- Present, Shenzhen, China
 
 Software Engineer Intern | [https://www.cadence.com/en_US/home.html Cadence Design Systems]
 - Global routing team, mentored by [https://www.linkedin.com/in/dennis-huang-716b863/ Dennis Huang]
