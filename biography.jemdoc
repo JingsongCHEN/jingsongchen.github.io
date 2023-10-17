@@ -15,43 +15,63 @@ My research interests include physical design of VLSI circuits and related ML-ba
 
 === Journal Papers
 
+- \[J2\] *Jingsong Chen*, Jian Kuang, Guowei Zhao, Dennis Huang, Evangeline F. Y. Young,
+ "PROS2.0: a Plug-in for Routability Optimization applied in the State-of-the-art Commercial EDA Tool Using Deep Learning", 
+ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2022. 
+  \[[https://ieeexplore.ieee.org/document/9759464 Paper]\]
+
 - \[J1\] Bentian Jiang\*, *Jingsong Chen*\*, Jinwei Liu, Lixin Liu, Fangzhou Wang, Xiaopeng Zhang, Evangeline F. Y. Young,
  "CU.POKer: Placing DNNs on WSE with Optimal Kernel Sizing and Efficient Protocol Optimization", 
- accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*) (\* co-first authors). 
+ IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), 2021 (\* co-first authors). 
   \[[https://ieeexplore.ieee.org/document/9480606 Paper]\]
 
 === Conference Papers
 
+- \[C10\] Weihua Xiao\*, Shanshan Han\*, Yue Yang, Shaoze Yang, Cheng Zheng, *Jingsong Chen*, Tingyuan Liang, Lei Li, and Weikang Qian, 
+ "MiniTNtk: An exact synthesis-based method for minimizing transistor network", 
+ IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), San Francisco, CA, USA, Oct. 29--Nov. 2, 2023 (\* co-first authors).
+
+- \[C9\] Jinwei Liu, Xiaopeng Zhang, Shiju Lin, Xinshi Zang, *Jingsong Chen*, Bentian Jiang, Martin D.F. Wong, Evangeline F.Y. Young, 
+ "Partition and place finite element model on wafer-scale engine", 
+ Annual Design Automation Conference (*DAC*), San Francisco, CA, USA, July 10--14, 2022. 
+  \[[https://dl.acm.org/doi/10.1145/3489517.3530565 Paper]\]
+
+- \[C8\] Tingyuan Liang, *Jingsong Chen*, Lei Li, Wei Zhang, 
+ "AutoCellLibX: Automated Standard Cell Library Extension Based on Pattern Mining", 
+ arXiv preprint arXiv:2207.12314, 2022. 
+  \[[https://arxiv.org/abs/2207.12314 Paper]\]
+
 - \[C7\] Fangzhou Wang, Lixin Liu, *Jingsong Chen*, Jinwei Liu, Xinshi Zang, Martin D.F. Wong, 
  "Starfish: An Efficient P&R Co-Optimization Engine with A\*-based Partial Rerouting", 
  IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Munich, Germany, Nov. 1--4, 2021. 
+  \[[https://ieeexplore.ieee.org/document/9643517 Paper]\]
 
-- \[C6\] *Jingsong Chen*, Jian Kuang, Guowei Zhao, Dennis Huang, Evangeline F. Y. Young,
+- \[C6\] *Jingsong Chen*, Jian Kuang, Guowei Zhao, Dennis Huang, Evangeline F.Y. Young,
  "PROS: a Plug-in for Routability Optimization applied in the State-of-the-art Commercial EDA Tool Using Deep Learning", 
  IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Virtual Event, Nov. 2--5, 2020. 
   \[[https://ieeexplore.ieee.org/document/9256565 Paper]\]
   \[[https://jingsongchen.github.io/slides/ICCAD20-PROS-slides.pdf Slides]\]
 
-- \[C5\] Bentian Jiang\*, *Jingsong Chen*\*, Jinwei Liu, Lixin Liu, Fangzhou Wang, Xiaopeng Zhang, Evangeline F. Y. Young,
+- \[C5\] Bentian Jiang\*, *Jingsong Chen*\*, Jinwei Liu, Lixin Liu, Fangzhou Wang, Xiaopeng Zhang, Evangeline F.Y. Young,
  "CU.POKer: Placing DNNs on Wafer-Scale AI Accelerator with Optimal Kernel Sizing", 
  IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Virtual Event, Nov. 2--5, 2020 (\* co-first authors).
   \[[https://ieeexplore.ieee.org/document/9256473 Paper]\]
   \[[https://jingsongchen.github.io/slides/ICCAD20-CUPOKer-slides.pdf Slides]\]
 
-- \[C4\] Haocheng Li, Gengjie Chen, Bentian Jiang, *Jingsong Chen*, Evangeline F. Y. Young,
+- \[C4\] Haocheng Li, Gengjie Chen, Bentian Jiang, *Jingsong Chen*, Evangeline F.Y. Young,
  "Dr. CU 2.0: A Scalable Detailed Routing Framework with Correct-by-Construction Design Rule Satisfaction", 
  IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Westminster, CO, USA, Nov. 4--7, 2019.
   \[[https://ieeexplore.ieee.org/document/8942074 Paper]\]
   \[[https://jingsongchen.github.io/slides/ICCAD19-DrCU2-slides.pdf Slides]\]
 
-- \[C3\] *Jingsong Chen*, Jinwei Liu, Gengjie Chen, Dan Zheng, Evangeline FY Young,
+- \[C3\] *Jingsong Chen*, Jinwei Liu, Gengjie Chen, Dan Zheng, Evangeline F.Y. Young,
  "MARCH: MAze Routing Under a Concurrent and Hierarchical Scheme for Buses", 
  Annual Design Automation Conference (*DAC*), San Francisco, CA, USA, June 24--29, 2019.
   \[[https://dl.acm.org/doi/10.1145/3316781.3317860 Paper]\]
   \[[https://jingsongchen.github.io/slides/DAC19-MARCH-slides.pdf Slides]\]
   \[[https://jingsongchen.github.io/posters/DAC19-MARCH-poster.pdf Poster]\]
 
-- \[C2\] *Jingsong Chen*, James Shiely, Evangeline FY Young,
+- \[C2\] *Jingsong Chen*, James Shiely, Evangeline F.Y. Young,
  "Fast detection of largest repeating layout pattern", 
  SPIE Advanced Lithography Conference, San Jose, CA, Feb. 24--28, 2019.
   \[[https://spie.org/Publications/Proceedings/Paper/10.1117/12.2517194 Paper]\]
@@ -102,7 +122,7 @@ Technical Intern | [https://www.synopsys.com/ Synopsys]
 === Reviewers\/External Reviewers
 
 - Integration, the VLSI Journal
-- IEEE/ACM Design Automation Conference (DAC)
+- ACM Design Automation Conference (DAC)
 - IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
 - ACM International Symposium on Physical Design (ISPD)
 
